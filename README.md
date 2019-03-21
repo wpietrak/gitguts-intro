@@ -5,3 +5,6 @@ dodatkowe litery
 
 # lincecja
 MIT
+
+#autor
+wojciech
