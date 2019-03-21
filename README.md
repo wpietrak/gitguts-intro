@@ -12,3 +12,6 @@ mit2
 CC
 
 modyfikacja na sp-002-wymagania
+
+Autor
+utor nieznany 
