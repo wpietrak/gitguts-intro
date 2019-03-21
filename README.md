@@ -1,1 +1,7 @@
-plik do tworzenia dokumanacji 
+plik do tworzenia dokumenacji 
+
+#opis
+dodatkowe litery 
+
+# lincecja
+MIT
