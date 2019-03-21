@@ -6,6 +6,8 @@ dodatkowe litery
 # lincecja
 MIT
 apache 2
+
+mit2
 <<<<<<< HEAD
 #Autot
 wojciech 
