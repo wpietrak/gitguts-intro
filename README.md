@@ -13,3 +13,6 @@ wojciech
 #autor
 wojciech
 >>>>>>> sp-001-inicjalna-konfiguracja
+
+
+modyfikacja na sp-002-wymagania
