@@ -7,14 +7,8 @@ dodatkowe litery
 MIT
 apache 2
 
-mit2
-<<<<<<< HEAD
-#Autot
-wojciech 
-=======
-#autor
-wojciech
->>>>>>> sp-001-inicjalna-konfiguracja
 
+mit2
+CC
 
 modyfikacja na sp-002-wymagania
