@@ -15,3 +15,5 @@ modyfikacja na sp-002-wymagania
 
 Autor
 utor nieznany 
+
+ostatnie zadanie 
